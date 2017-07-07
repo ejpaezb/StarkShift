@@ -1,0 +1,2 @@
+# StarkShift
+Following the model and the results given in Safronova, M. S., Johnson, W. R., &amp; Derevianko, A. (1999). Relativistic many-body calculations of energy levels, hyperfine constants, electric-dipole matrix elements, and static polarizabilities for alkali-metal atoms. Physical Review A, 60(6), 4476.  Here we determine the scalar, vector and tensor polarisability. Previous version only included the reduced (static) scalar polarizability and the scalar component. Also, in this new version a correction term arising from the ionic core is included.
